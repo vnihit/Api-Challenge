@@ -11,7 +11,7 @@ Migrate the data into respective collections
 A third json file `food_categories.json` is created to catogorise diiferent food items as either vegetable or fruit. 
 
 Install the requirements in a virtualenvironment with -
-`pip install -r requirements`
+`pip install -r requirements.txt`
 
 Inside the project directory run the server-
 `python manage.py runserver`
