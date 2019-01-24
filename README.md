@@ -17,5 +17,7 @@ Inside the project directory run the server-
 `python manage.py runserver`
 
 Navigate to `localhost:8000` to see the list of APIs and play with them
+Under the swagger documentation of each api click on execute to enter the required parameter and execute the endpoint. 
+
 
 The models are defined in `government/models.py` and views logic is defined in the `government/views.py`.
